@@ -4,7 +4,7 @@
 // Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
 
 var to = 'Em';
-var gift_url = 'https://www.facebook.com/profile.php?id=100012274185475';
+var gift_url = 'https://www.facebook.com/profile.php?id=100065391275355';
 var gift_image_url = 'n1.png';
 
 var nametag = document.getElementById("nametag");
